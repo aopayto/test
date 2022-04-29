@@ -8,5 +8,8 @@ export default {
 
 // AuthenticationService.register({
 //   email: 'testing@gmail.com',
-//   password: '123456'
+//   password: '123456'<input
+// type="email"
+// name="email"
+// placeholder="email" />
 // })
